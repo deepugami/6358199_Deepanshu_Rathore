@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+/* CSS for text colors based on rent value */
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
+
+.office-item {
+  margin: 20px 0;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
